@@ -7,7 +7,7 @@ Add, update, and delete property listings.
 Manage property details, including descriptions, images, and availability.
 **For Guests**
 Browse property listings based on location, price, and availability.
-Book accommodations effortlessly.
+Review the accommodations effortlessly.
 
 **General**
 User authentication and role-based access.
