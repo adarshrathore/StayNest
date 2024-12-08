@@ -16,14 +16,8 @@ Responsive design for mobile and desktop.
 **Tech Stack**
 Backend: Node.js, Express.js
 Database: MongoDB
-Frontend: HTML, CSS, JavaScript
+Frontend: HTML, CSS, Bootstrap, JavaScript
 Tools: GitHub for version control
-
-**Roadmap**
-Implement advanced search filters.
-Integrate payment gateways.
-Enhance security features.
-Introduce a review system for hosts and guests.
 
 **Acknowledgments**
 Inspired by Airbnb's platform.
